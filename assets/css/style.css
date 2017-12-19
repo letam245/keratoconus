@@ -116,19 +116,68 @@ a.dropdown-toggle:hover, a.dropdown-toggle:focus, a.dropdown-toggle:active {
 
 td.right {
 	padding-left: 60px!important;
-	border-left:2px solid #829dc7;
+	border-left:1.5px solid #829dc7;
 }
 
 td.left{
 	padding-left: 40px!important;
 }
 table {
-	border: 2px solid #829dc7;
+	border: 1.5px solid #829dc7;
 }
 
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
-	border-top: 2px solid #829dc7!important;
+	border-top: 1.5px solid #829dc7!important;
 }
+
+.comparePic {
+	margin: 20px 0;
+}
+
+.caption {
+	font-size:18px;
+	text-align: center;
+	color: #003950;
+}
+
+#keratoconusQuote{
+	margin: 30px 0;
+	padding: 20px 0 10px 0;
+	text-align: center;
+	background-color: #66ba48;
+}
+
+#keratoconusQuote p{
+	color: #fff;
+	font-size:15px;
+	letter-spacing: 0.1em;
+	font-weight: 300;
+}
+
+
+.stage {
+	margin-bottom: 30px;
+}
+
+p.stageLeft{
+	text-align: right;
+
+}
+
+p.stageRight{
+
+}
+
+.line{
+	border-left: 1px solid black
+}
+
+.timeline {
+	padding: 0 50px
+}
+
+
+
 
 
 
@@ -165,7 +214,7 @@ table {
 		}
 
 		table {
-			border: 2px solid #829dc7!important;
+			border: 1.5px solid #829dc7!important;
 		}
 	
 	}
